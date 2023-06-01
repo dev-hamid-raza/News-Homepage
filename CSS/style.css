@@ -247,12 +247,7 @@ hr
         font-size: 38%;
     }
 }
-@media (max-width:550px) {
-    :root 
-    {
-        font-size: 30%;
-    }
-}
+
 @media (max-width:500px) {
     .main-container
     {
